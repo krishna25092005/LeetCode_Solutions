@@ -1,19 +1,19 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-    for(int i=0;i<nums.size();i++) {
-        int leftSum=0;
-        int rightSum=0;
-    // Find lsum excluding current index
-    for(int j=0;j<i;j++) {
-        leftSum+=nums[j];
+    // Prefix Sum - Optimized Approach TC : O(n)
+    vector<int>leftSum(nums.size(),0);
+    vector<int>rightSum(nums.size(),0);
+    for(int i=1;i<nums.size();i++) {
+        leftSum[i] = leftSum[i-1] + nums[i-1];
     }
 
-    // Find rsum excluding current index
-    for(int j=i+1;j<nums.size();j++)  {
-        rightSum+=nums[j];
+    for(int i=nums.size()-2;i>=0;i--) {
+        rightSum[i] = rightSum[i+1] + nums[i+1];
     }
-    if(leftSum==rightSum) return i;
+
+    for(int i=0;i<nums.size();i++) {
+        if(leftSum[i]==rightSum[i]) return i;
     }
     return -1;
     }
