@@ -3,24 +3,24 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int> ans;
         int size = nums.size();
-        vector<pair<int, int>> numIndexPairs;
+        vector<pair<int, int>> p;
 
         // Create a vector of pairs (number, original index)
         for (int i = 0; i < size; ++i) {
-            numIndexPairs.push_back({nums[i], i});
+            p.push_back({nums[i], i});
         }
 
         // Sort the vector of pairs based on the number values
-        sort(numIndexPairs.begin(), numIndexPairs.end());
+        sort(p.begin(), p.end());
 
         int low = 0;
         int high = size - 1;
 
         while (low < high) {
-            int currSum = numIndexPairs[low].first + numIndexPairs[high].first;
+            int currSum = p[low].first + p[high].first;
             if (currSum == target) {
-                ans.push_back(numIndexPairs[low].second);
-                ans.push_back(numIndexPairs[high].second);
+                ans.push_back(p[low].second);
+                ans.push_back(p[high].second);
                 return ans;
             } else if (currSum > target) {
                 high--;
