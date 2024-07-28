@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
