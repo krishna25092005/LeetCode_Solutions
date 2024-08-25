@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
