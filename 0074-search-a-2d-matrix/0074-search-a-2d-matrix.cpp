@@ -4,7 +4,7 @@ public:
         int rows = matrix.size();
         int cols = matrix[0].size();
         int n = rows*cols;
-        
+        // Binary search apply
         int s = 0;
         int e = n-1;
         int mid = s+(e-s)/2;
