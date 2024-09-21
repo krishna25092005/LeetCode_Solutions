@@ -24,4 +24,5 @@ public:
     // Return the final result string without adjacent duplicates
     return ans;
 }
+
 };
