@@ -1,4 +1,6 @@
 class Solution {
+    // Time Complexity : O(logn)
+    // Space Complexity : O(1)
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
         int s=0;
