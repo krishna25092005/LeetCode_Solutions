@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
