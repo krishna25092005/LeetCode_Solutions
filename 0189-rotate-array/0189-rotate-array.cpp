@@ -1,8 +1,6 @@
 class Solution {
 public:
-    void rotate(std::vector<int>& nums, int k) {
-        int n = nums.size();
-        k = k % n;
-        std::rotate(nums.begin(), nums.begin() + n - k, nums.end());
+    void rotate(vector<int>& nums, int k) {
+        std::rotate(nums.begin(), nums.size()+nums.begin()-k, nums.end());
     }
 };
