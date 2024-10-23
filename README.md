@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0051-n-queens) |
 ## Stack
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
