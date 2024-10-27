@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0075-sort-colors) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Math
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
