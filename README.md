@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -199,4 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
