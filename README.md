@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
