@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
