@@ -16,7 +16,6 @@ public:
     {
         return construct(nums, 0, nums.size());
     }
-
 private:
     TreeNode *construct(const vector<int> &nums, int left, int right)
     {
