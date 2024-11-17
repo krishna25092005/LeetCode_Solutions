@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Trie
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
