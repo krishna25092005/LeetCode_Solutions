@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
 |  |
 | ------- |
