@@ -1,4 +1,5 @@
 class Solution {
+
 public:
     string countAndSay(int n,string res="1") {
         while (--n) {
