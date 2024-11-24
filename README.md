@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2406-decode-the-message](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2406-decode-the-message) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Binary Search
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 ## String Matching
 |  |
 | ------- |
