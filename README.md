@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
