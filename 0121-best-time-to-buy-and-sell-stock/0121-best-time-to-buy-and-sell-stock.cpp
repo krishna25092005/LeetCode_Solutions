@@ -1,6 +1,3 @@
-#include <vector>
-#include <algorithm> // for std::min and std::max
-
 class Solution {
 public:
     int maxProfit(std::vector<int>& prices) {
