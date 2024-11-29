@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
