@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0792-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Math
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
