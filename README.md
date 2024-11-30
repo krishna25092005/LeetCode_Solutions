@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
+| [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
+| [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2406-decode-the-message](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2406-decode-the-message) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -381,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
