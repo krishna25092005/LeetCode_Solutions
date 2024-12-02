@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
