@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0932-monotonic-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
