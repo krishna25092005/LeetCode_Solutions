@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
