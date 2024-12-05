@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
