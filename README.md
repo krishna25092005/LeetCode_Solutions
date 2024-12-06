@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0598-range-addition-ii) |
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
+| [0830-largest-triangle-area](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0944-smallest-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -476,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
