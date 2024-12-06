@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+| [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+| [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## String
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
