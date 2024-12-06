@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0932-monotonic-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0979-di-string-match) |
 ## String Matching
 |  |
