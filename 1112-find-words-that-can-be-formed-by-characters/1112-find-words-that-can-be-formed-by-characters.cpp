@@ -9,14 +9,14 @@ public:
         
         int totalLength = 0;
 
-        // Check each word
+        // Process each word
         for (const string& word : words) {
             vector<int> wordCount(26, 0);
             for (char c : word) {
                 wordCount[c - 'a']++;
             }
             
-            // Check if word can be formed
+            // Check if the word can be formed
             bool canForm = true;
             for (int i = 0; i < 26; i++) {
                 if (wordCount[i] > charCount[i]) {
@@ -25,6 +25,7 @@ public:
                 }
             }
             
+            // If the word can be formed, add its length to the total
             if (canForm) {
                 totalLength += word.length();
             }
