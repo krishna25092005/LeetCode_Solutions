@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## String
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
