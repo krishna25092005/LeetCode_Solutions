@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
