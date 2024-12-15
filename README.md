@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
