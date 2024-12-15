@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-surface-area-of-3d-shapes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1013-fibonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1395-minimum-time-visiting-all-points](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -565,4 +568,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
