@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0500-keyboard-row) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
