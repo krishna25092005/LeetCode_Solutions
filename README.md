@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0500-keyboard-row) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 ## Geometry
 |  |
@@ -588,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
