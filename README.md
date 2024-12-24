@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0598-range-addition-ii) |
 | [0805-escape-the-ghosts](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0805-escape-the-ghosts) |
