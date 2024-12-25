@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1287-distance-between-bus-stops](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1287-distance-between-bus-stops) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## String Matching
 |  |
 | ------- |
