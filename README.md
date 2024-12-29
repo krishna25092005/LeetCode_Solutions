@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0228-summary-ranges) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0598-range-addition-ii) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Memoization
 |  |
@@ -621,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
