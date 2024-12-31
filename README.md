@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
