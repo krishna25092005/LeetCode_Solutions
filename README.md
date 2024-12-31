@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0292-nim-game) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Memoization
 |  |
