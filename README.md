@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2406-decode-the-message) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
