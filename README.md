@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2406-decode-the-message) |
 | [2465-shifting-letters-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
 | ------- |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
 | ------- |
@@ -653,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
