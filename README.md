@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0978-valid-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0978-valid-mountain-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0952-word-subsets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0979-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
