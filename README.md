@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0777-toeplitz-matrix) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0407-trapping-rain-water-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
