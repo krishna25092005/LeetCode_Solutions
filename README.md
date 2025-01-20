@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2685-first-completely-painted-row-or-column](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2406-decode-the-message](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2406-decode-the-message) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2685-first-completely-painted-row-or-column](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
