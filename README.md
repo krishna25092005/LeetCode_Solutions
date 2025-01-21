@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0807-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0645-set-mismatch) |
+| [0807-custom-sort-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0807-custom-sort-string) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0807-custom-sort-string](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0952-word-subsets) |
