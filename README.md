@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1395-minimum-time-visiting-all-points](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1395-minimum-time-visiting-all-points) |
+| [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
+| [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 ## Binary Tree
@@ -723,4 +728,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
