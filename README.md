@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
