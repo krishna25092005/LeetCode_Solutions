@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0841-shortest-distance-to-a-character) |
+| [0854-making-a-large-island](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0890-lemonade-change) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0777-toeplitz-matrix) |
+| [0854-making-a-large-island](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1558-course-schedule-iv) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
