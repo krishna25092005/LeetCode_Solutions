@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1364-tuple-with-same-product](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1364-tuple-with-same-product](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1364-tuple-with-same-product](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
