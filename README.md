@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0089-gray-code) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
