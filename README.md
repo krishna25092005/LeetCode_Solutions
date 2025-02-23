@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0928-surface-area-of-3d-shapes](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0924-fair-candy-swap) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0965-unique-email-addresses) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0654-maximum-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0654-maximum-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krishna25092005/LeetCode_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
